@@ -39,3 +39,4 @@ toml==0.10.2
 typing_extensions==4.2.0
 urllib3==1.26.9
 zipp==3.8.0
+python-dotenv
